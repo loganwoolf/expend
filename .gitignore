@@ -24,3 +24,6 @@ pnpm-debug.log*
 .idea/
 
 /todos/worktrees/
+
+# Local Netlify folder
+.netlify
